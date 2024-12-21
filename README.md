@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 🎯 Profesional con más de 20 años de experiencia en análisis, diseño y desarrollo de software, especializado en herramientas de Microsoft.
 
-🧩 Sectores: Construcción, servicios (agua, electricidad, telecomunicaciones), alquiler de vehículos y administración pública.
+🧩 __Sectores__: Construcción, servicios (agua, electricidad, telecomunicaciones), alquiler de vehículos y administración pública.
 
-🛠️ Adaptación tecnológica: Experiencia en análisis y ajuste a arquitecturas existentes.
+🛠️ __Adaptación tecnológica__: Experiencia en análisis y ajuste a arquitecturas existentes.
 
-🤝 Comunicación: Sólida capacidad para analizar y adaptar soluciones a arquitecturas tecnológicas existentes. Trabajo en estrecha colaboración con usuarios finales para asegurar una comunicación clara y efectiva.
+🤝 __Comunicación__: Sólida capacidad para analizar y adaptar soluciones a arquitecturas tecnológicas existentes. Trabajo en estrecha colaboración con usuarios finales para asegurar una comunicación clara y efectiva.
 
 ---
 
@@ -104,14 +104,14 @@ Here are some ideas to get you started:
 ## 🏢 Experiencia Laboral
 
 ### Neoris — Sacyr Agua *(2018 - Actual)*  
-*Experienced Developer*
+> *Experienced Developer*
 
 🚀 **Desarrollo continuo:** Mejoras y migración de datos críticos.  
 🟢 **Resolución de incidencias:** Aplicaciones web con `ASP .NET Web Forms` y `Angular`.  
 📊 **Optimización:** Consultas `T-SQL` y generación de informes con SSRS.  
 
 ### Bilbomática *(2015 - 2018)* 
-*Analista Programador .NET*
+> *Analista Programador .NET*
 
 > **Ministerio de Industria (2016-2018):**  
   Desarrollo de aplicaciones web integradas en sistemas de administración pública con `ASP .NET Web Forms`.  
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
   Resolución de incidencias, evolutivos y migración de datos críticos con `SQL Server`.  
 
 ### Enterprise *(2010 - 2014)*  
-*Analista Programador .NET*
+> *Analista Programador .NET*
 
 - Desarrollo integral de software: Análisis, diseño, implementación y pruebas  con `ASP .NET Web Forms`, `EF`, `NHibernate`.
 - Colaboración internacional: Requerimientos y validación del sistema.  
