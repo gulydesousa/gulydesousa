@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ## 💻 Conocimientos Técnicos
 
 🖥️ **Lenguajes y Frameworks:**  
-  `C#`, `T-SQL`, `ASP.NET`, `Web Forms`, `ASP.NET Core`, `EF Core`, `Dapper`, `TypeScript`, `JavaScript`, `JQuery`, `LINQ`, `Angular`, `Ionic`, `Node.js`  
+  `C#`, `T-SQL`, `ASP.NET`, `Web Forms`, `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `TypeScript`, `JavaScript`, `JQuery`, `LINQ`, `Angular`, `Ionic`, `Node.js`  
 
 ⚙️ **Herramientas y Tecnologías:**  
   `Azure`, `Azure DevOps`, `SQL Server`, `SSRS`, `Git`, `GitHub`, `GitHub Actions`, `CSS/SCSS`, `xUnit`, `NUnit`, `Firebase`, `MongoDB`, `Visual Studio 2022`, `VS Code`  
