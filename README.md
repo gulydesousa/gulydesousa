@@ -22,17 +22,19 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 Perfil
 
-🎯 Profesional con más de 20 años de experiencia en análisis, diseño y desarrollo de software, especializado en herramientas de Microsoft.  
+🎯 Profesional con más de 20 años de experiencia en análisis, diseño y desarrollo de software, especializado en herramientas de Microsoft.
 
-🧩 **Sectores:** Construcción, servicios (agua, electricidad, telecomunicaciones), alquiler de vehículos y administración pública.  
-🛠️ **Adaptación tecnológica:** Experiencia en análisis y ajuste a arquitecturas existentes.  
-🤝 **Comunicación:** Colaboración fluida con usuarios finales y equipos técnicos.  
+🧩 Sectores: Construcción, servicios (agua, electricidad, telecomunicaciones), alquiler de vehículos y administración pública.
+
+🛠️ Adaptación tecnológica: Experiencia en análisis y ajuste a arquitecturas existentes.
+
+🤝 Comunicación: Sólida capacidad para analizar y adaptar soluciones a arquitecturas tecnológicas existentes. Trabajo en estrecha colaboración con usuarios finales para asegurar una comunicación clara y efectiva.
 
 ---
 
 ## 🎓 Formación Académica
 
-🎓 **Ingeniería Informática**  
+**Ingeniería Informática**  
 📍 Universidad Simón Bolívar – Venezuela  
 *Título homologado en España*
 
@@ -42,12 +44,11 @@ Here are some ideas to get you started:
 
 ## 🏅 Certificaciones
 
-✨ **[GitHub Foundations](https://www.credly.com/badges/dddc2ecf-c13f-46e3-be7a-953447527a96)** – *Noviembre 2024*  
-🛠️ **[AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/27E14EDF91DB5E69?sharingId=19F7185A6633D89E)** – *Julio 2024*  
-☁️ **[AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/792318C24C3E6BA1?sharingId=19F7185A6633D89E)** – *Junio 2024*  
-📋 **[Professional Scrum Product Owner™ Certification](https://www.credly.com/badges/a8f7ebc4-e14d-4e52-b2fe-67c18211ebfb)** – *Noviembre 2024*  
-🧠 **[Professional Scrum Master™ I Certification](https://www.credly.com/badges/0fae4bcd-1a84-4332-8681-888fc86e68ab)** – *Febrero 2024*  
-📊 **[70-461: Querying Microsoft SQL Server 2012/2014](https://www.credly.com/badges/dd2fa0b6-d73e-467c-a4d7-6bfefbc9b911)** – *Octubre 2015*  
+- **[GitHub Foundations](https://www.credly.com/badges/dddc2ecf-c13f-46e3-be7a-953447527a96)** – *Noviembre 2024*  
+- **[AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/27E14EDF91DB5E69?sharingId=19F7185A6633D89E)** – *Julio 2024*  
+- **[AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/792318C24C3E6BA1?sharingId=19F7185A6633D89E)** – *Junio 2024*  - **- - **[Professional Scrum Product Owner™ Certification](https://www.credly.com/badges/a8f7ebc4-e14d-4e52-b2fe-67c18211ebfb)** – *Noviembre 2024*  
+- **[Professional Scrum Master™ I Certification](https://www.credly.com/badges/0fae4bcd-1a84-4332-8681-888fc86e68ab)** – *Febrero 2024*  
+- **[70-461: Querying Microsoft SQL Server 2012/2014](https://www.credly.com/badges/dd2fa0b6-d73e-467c-a4d7-6bfefbc9b911)** – *Octubre 2015*  
 
 ---
 
@@ -70,7 +71,7 @@ Here are some ideas to get you started:
 ---
 
 ## 💻 Conocimientos Técnicos
-
+<!--
 🖥️ **Lenguajes y Frameworks:**  
   `C#`, `T-SQL`, `ASP.NET`, `Web Forms`, `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `TypeScript`, `JavaScript`, `JQuery`, `LINQ`, `Angular`, `Ionic`, `Node.js` 
   
@@ -79,50 +80,57 @@ Here are some ideas to get you started:
 
 🌐 **Servicios y APIs:**  
   `ASP.NET Web Services`, `ASP.NET Core Web API`  
-
+-->
 
 | **Categoría**          | **Tecnologías**                                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------------|
-| 💻  Lenguajes              | ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![T-SQL](https://img.shields.io/badge/T--SQL-orange?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=FF5722&labelColor=FF5722&borderRadius=12)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC&labelColor=007ACC&borderRadius=12)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=F7DF1E&borderRadius=12)&nbsp;&nbsp;![JQuery](https://img.shields.io/badge/jQuery-lightgray?style=for-the-badge&logo=jquery&logoColor=white&color=555555&labelColor=555555&borderRadius=12)&nbsp;&nbsp;![LINQ](https://img.shields.io/badge/LINQ-gray?style=for-the-badge&logo=dotnet&logoColor=white&color=6A6A6A&labelColor=6A6A6A&borderRadius=12) |
-| 🔧  Frameworks             | ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge&logo=aspdotnet&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)  &nbsp;&nbsp;![Web Forms](https://img.shields.io/badge/Web%20Forms-purple?style=for-the-badge&logo=microsoft-webforms&logoColor=white&color=6A0DAD&labelColor=6A0DAD&borderRadius=12)  &nbsp;&nbsp;![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-green?style=for-the-badge&logo=aspdotnetcore&logoColor=white&color=00A754&labelColor=00A754&borderRadius=12)  &nbsp;&nbsp;![EF Core](https://img.shields.io/badge/EF%20Core-blue?style=for-the-badge&logo=entity-framework&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)  &nbsp;&nbsp;![Dapper](https://img.shields.io/badge/Dapper-purple?style=for-the-badge&logo=dotnet&logoColor=white&color=6A0DAD&labelColor=6A0DAD&borderRadius=12)&nbsp;&nbsp;![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&color=DD0031&labelColor=DD0031&borderRadius=12)&nbsp;&nbsp;![Ionic](https://img.shields.io/badge/Ionic-blue?style=for-the-badge&logo=ionic&logoColor=white&color=3880FF&labelColor=3880FF&borderRadius=12)&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&color=339933&labelColor=339933&borderRadius=12) |
-| 🛠️  Herramientas           | ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=white&color=2F2F2F&labelColor=2F2F2F&borderRadius=12)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=white&color=32CD32&labelColor=32CD32&borderRadius=12)&nbsp;&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-pink?style=for-the-badge&logo=github-actions&logoColor=white&color=FF69B4&labelColor=FF69B4&borderRadius=12) |
-| 🛢 Bases de Datos         | ![SQL Server](https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248&labelColor=47A248&borderRadius=12)&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white&color=FFA000&labelColor=FFA000&borderRadius=12) |
-| 🎨  Estilos y Diseño       | ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass&logoColor=white&color=FF69B4&labelColor=FF69B4&borderRadius=12) |
-| 🌐  Servicios y APIs       | ![ASP.NET Web Services](https://img.shields.io/badge/ASP.NET%20Web%20Services-blue?style=for-the-badge&logo=aspdotnet&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-green?style=for-the-badge&logo=aspdotnetcore&logoColor=white&color=00A754&labelColor=00A754&borderRadius=12) |
-| 📦  IDEs y Herramientas      | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white&color=6A0DAD&labelColor=6A0DAD&borderRadius=12)&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC&labelColor=007ACC&borderRadius=12) |
-| 🛠️  Herramientas Web      | ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-teal?style=for-the-badge&logo=azure-devops&logoColor=white&color=0084B4&labelColor=0084B4&borderRadius=12) |
-| 📊  Generación de Reportes | ![SSRS](https://img.shields.io/badge/SSRS-blue?style=for-the-badge&logo=microsoft-sql-server-reporting-services&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12) |
+| Lenguajes              | ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![T-SQL](https://img.shields.io/badge/T--SQL-orange?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=FF5722&labelColor=FF5722&borderRadius=12)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC&labelColor=007ACC&borderRadius=12)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=F7DF1E&borderRadius=12)&nbsp;&nbsp;![JQuery](https://img.shields.io/badge/jQuery-lightgray?style=for-the-badge&logo=jquery&logoColor=white&color=555555&labelColor=555555&borderRadius=12)&nbsp;&nbsp;![LINQ](https://img.shields.io/badge/LINQ-gray?style=for-the-badge&logo=dotnet&logoColor=white&color=6A6A6A&labelColor=6A6A6A&borderRadius=12) |
+| Frameworks             | ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge&logo=aspdotnet&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)  &nbsp;&nbsp;![Web Forms](https://img.shields.io/badge/Web%20Forms-purple?style=for-the-badge&logo=microsoft-webforms&logoColor=white&color=6A0DAD&labelColor=6A0DAD&borderRadius=12)  &nbsp;&nbsp;![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-green?style=for-the-badge&logo=aspdotnetcore&logoColor=white&color=00A754&labelColor=00A754&borderRadius=12)  &nbsp;&nbsp;![EF Core](https://img.shields.io/badge/EF%20Core-blue?style=for-the-badge&logo=entity-framework&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)  &nbsp;&nbsp;![Dapper](https://img.shields.io/badge/Dapper-purple?style=for-the-badge&logo=dotnet&logoColor=white&color=6A0DAD&labelColor=6A0DAD&borderRadius=12)&nbsp;&nbsp;![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&color=DD0031&labelColor=DD0031&borderRadius=12)&nbsp;&nbsp;![Ionic](https://img.shields.io/badge/Ionic-blue?style=for-the-badge&logo=ionic&logoColor=white&color=3880FF&labelColor=3880FF&borderRadius=12)&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&color=339933&labelColor=339933&borderRadius=12) |
+| Herramientas           | ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=white&color=2F2F2F&labelColor=2F2F2F&borderRadius=12)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=white&color=32CD32&labelColor=32CD32&borderRadius=12)&nbsp;&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-pink?style=for-the-badge&logo=github-actions&logoColor=white&color=FF69B4&labelColor=FF69B4&borderRadius=12) |
+| Bases de Datos         | ![SQL Server](https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248&labelColor=47A248&borderRadius=12)&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white&color=FFA000&labelColor=FFA000&borderRadius=12) |
+| Estilos y Diseño       | ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass&logoColor=white&color=FF69B4&labelColor=FF69B4&borderRadius=12) |
+| Servicios y APIs       | ![ASP.NET Web Services](https://img.shields.io/badge/ASP.NET%20Web%20Services-blue?style=for-the-badge&logo=aspdotnet&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-green?style=for-the-badge&logo=aspdotnetcore&logoColor=white&color=00A754&labelColor=00A754&borderRadius=12) |
+| IDEs y Herramientas      | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white&color=6A0DAD&labelColor=6A0DAD&borderRadius=12)&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC&labelColor=007ACC&borderRadius=12) |
+| Herramientas Web      | ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12)&nbsp;&nbsp;![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-teal?style=for-the-badge&logo=azure-devops&logoColor=white&color=0084B4&labelColor=0084B4&borderRadius=12) |
+| Generación de Reportes | ![SSRS](https://img.shields.io/badge/SSRS-blue?style=for-the-badge&logo=microsoft-sql-server-reporting-services&logoColor=white&color=0078D7&labelColor=0078D7&borderRadius=12) |
 
 ---
 
 ## 🌍 Idiomas:
-🗣️ **Inglés:**  *Nivel Intermedio*  
+**Inglés:**  *Nivel Intermedio*  
 
 ---
 
 ## 🏢 Experiencia Laboral
 
-### **Neoris – Sacyr Agua** *(2018 - Actual)*  
-🟢 **Resolución de incidencias:** Aplicaciones web con `ASP .NET Web Forms` y `Angular`.  
+### Neoris — Sacyr Agua *(2018 - Actual)*  
+*Experienced Developer*
+
 🚀 **Desarrollo continuo:** Mejoras y migración de datos críticos.  
+🟢 **Resolución de incidencias:** Aplicaciones web con `ASP .NET Web Forms` y `Angular`.  
 📊 **Optimización:** Consultas `T-SQL` y generación de informes con SSRS.  
 
-### **Bilbomática** *(2015 - 2018)*  
-🟡 **Ministerio de Industria (2016-2018):**  
+### Bilbomática *(2015 - 2018)* 
+*Analista Programador .NET*
+
+> **Ministerio de Industria (2016-2018):**  
   Desarrollo de aplicaciones web integradas en sistemas de administración pública con `ASP .NET Web Forms`.  
   
-🟡 **CIDE (2015-2016):**  
+> **CIDE (2015-2016):**  
   Resolución de incidencias, evolutivos y migración de datos críticos con `SQL Server`.  
 
-### **Enterprise** *(2010 - 2014)*  
-🔵 Desarrollo integral de software: Análisis, diseño, implementación y pruebas  con `ASP .NET Web Forms`, `EF`, `NHibernate`.
+### Enterprise *(2010 - 2014)*  
+*Analista Programador .NET*
 
-🔵 Colaboración internacional: Requerimientos y validación del sistema.  
+- Desarrollo integral de software: Análisis, diseño, implementación y pruebas  con `ASP .NET Web Forms`, `EF`, `NHibernate`.
+- Colaboración internacional: Requerimientos y validación del sistema.  
 
-### **Everis** *(2008 - 2010)*  
-🟠 **Telefónica:** Pruebas unitarias, funcionales e integración.  
-🟠 **Fraternidad Muprespa:** Levantamiento de requerimientos y diseño funcional.  
-🟠 **BBVA, Fundación Tripartita:** Desarrollo en .NET con `MVC` `ASP .NET Web Forms` y pruebas con `NUnit`.  
+### Everis: *(2008 - 2010)*  
+> **Telefónica** — *Analista QA*: Pruebas unitarias, funcionales e integración.  
+
+> **Fraternidad Muprespa** — *Analista Funcional*:  Levantamiento de requerimientos y diseño funcional.  
+
+> **BBVA, Fundación Tripartita**  — *Analista Programador*:  Desarrollo en .NET con `MVC` `ASP .NET Web Forms` y pruebas con `NUnit`.  
 
 
 ---
