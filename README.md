@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👤 Perfil
+## 👩‍💻 Perfil
 
 🎯 Profesional con más de 20 años de experiencia en análisis, diseño y desarrollo de software, especializado en herramientas de Microsoft.  
 
