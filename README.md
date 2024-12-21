@@ -97,11 +97,13 @@ Here are some ideas to get you started:
 ### **Bilbomática** *(2015 - 2018)*  
 🟡 **Ministerio de Industria (2016-2018):**  
   Desarrollo de aplicaciones web integradas en sistemas de administración pública con `ASP .NET Web Forms`.  
+  
 🟡 **CIDE (2015-2016):**  
   Resolución de incidencias, evolutivos y migración de datos críticos con `SQL Server`.  
 
 ### **Enterprise** *(2010 - 2014)*  
 🔵 Desarrollo integral de software: Análisis, diseño, implementación y pruebas  con `ASP .NET Web Forms`, `EF`, `NHibernate`.
+
 🔵 Colaboración internacional: Requerimientos y validación del sistema.  
 
 ### **Everis** *(2008 - 2010)*  
