@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 - **[Angular: De cero a experto 2024](https://www.udemy.com/certificate/UC-4dac7d80-3cf8-4c62-b5c7-a7032685002f)** – *Udemy, Agosto 2024, 46h*
 - **[The Git & GitHub Bootcamp](https://www.udemy.com/certificate/UC-74fcb5b0-f67c-4460-b5ed-f9ef52db73b9)** – *Udemy, Agosto 2024, 17h*
 - **[ASP.NET Core 8 con Clean Architecture](https://www.udemy.com/certificate/UC-17c9ebf8-73e6-4a51-840c-b4b0b64e15c5)** – *Udemy, Marzo 2024, 10.5h*
-- **[Generative AI & ChatGPT models](https://www.udemy.com/UC-a4f5e167-cf1a-4448-9688-f19757169d2c)** – *Udemy, Marzo 2024, 2h*
+- **[Generative AI & ChatGPT models](https://www.udemy.com/certificate/UC-a4f5e167-cf1a-4448-9688-f19757169d2c)** – *Udemy, Marzo 2024, 2h*
 - **[Dapper - Getting Started](https://www.udemy.com/certificate/UC-0e3f943b-3e29-434f-99cc-4905f7b65619)** – *Udemy, Enero 2024, 3h*
 - **[Dependency Injection in .NET 8 and ASP.NET Core 8](https://www.udemy.com/certificate/UC-416b1960-aeff-4677-a7bf-2fa4c1fdf53b)** – *Udemy, Enero 2024, 2h*
 - **[ASP.NET Core 8 (.NET 8) | True Ultimate Guide](https://www.udemy.com/certificate/UC-269cccab-a778-4b1a-ad39-2ce1e9e3c980)** – *Udemy, Diciembre 2023, 82h*
 - **[Angular: De cero a experto Legacy](https://www.udemy.com/certificate/UC-31a134a2-63b7-40dc-a632-27846d0674d8)** – *Udemy, Agosto 2023, 35h*
--  **[API RESTful con ASP.NET Core Web API](https://www.udemy.com/UC-df876d16-35eb-40c3-98b5-6efa3d7d5136)** – *Udemy, Junio 2023, 7h*
+-  **[API RESTful con ASP.NET Core Web API](https://www.udemy.com/certificate/UC-df876d16-35eb-40c3-98b5-6efa3d7d5136)** – *Udemy, Junio 2023, 7h*
 -  **[The Complete Sass & SCSS Course](https://www.udemy.com/certificate/UC-b34cc317-8db0-444d-9570-c2163cdbe378)** – *Udemy, Septiembre 2023, 4h*
 -  **[Quick Introduction to Postman and API Testing for Beginners](https://www.udemy.com/certificate/UC-fc95f5db-d91c-409f-9a16-fdaf6bca844a)** *Udemy, Marzo 2024, 03h*
 -  **[TypeScript: Tu completa guía y manual de mano](https://www.udemy.com/certificate/UC-5eb86ef5-756b-4187-838d-2b959f998af3)** *Udemy, Agosto 2023, 09h*
