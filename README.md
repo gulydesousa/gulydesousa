@@ -80,8 +80,10 @@ Here are some ideas to get you started:
 🌐 **Servicios y APIs:**  
   `ASP.NET Web Services`, `ASP.NET Core Web API`  
 
-🗣️ **Idiomas:**  
-  Inglés – *Nivel Intermedio*  
+---
+
+## 🌍 Idiomas:
+🗣️ **Inglés:**  *Nivel Intermedio*  
 
 ---
 
