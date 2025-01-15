@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📚 Cursos
-- **[Clean Architecture Avanzado en ASP.NET Core](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4f503682-acb8-4dc6-b848-9008b5e0d9f8.pdf)– *Udemy, Enero 2025, 25h*
+- **[Clean Architecture Avanzado en ASP.NET Core](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4f503682-acb8-4dc6-b848-9008b5e0d9f8.pdf)** – *Udemy, Enero 2025, 25h*
 - **[Angular: De cero a experto 2024](https://www.udemy.com/certificate/UC-4dac7d80-3cf8-4c62-b5c7-a7032685002f)** – *Udemy, Agosto 2024, 46h*
 - **[The Git & GitHub Bootcamp](https://www.udemy.com/certificate/UC-74fcb5b0-f67c-4460-b5ed-f9ef52db73b9)** – *Udemy, Agosto 2024, 17h*
 - **[ASP.NET Core 8 con Clean Architecture](https://www.udemy.com/certificate/UC-17c9ebf8-73e6-4a51-840c-b4b0b64e15c5)** – *Udemy, Marzo 2024, 10.5h*
