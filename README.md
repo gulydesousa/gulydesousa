@@ -45,13 +45,12 @@ Here are some ideas to get you started:
 ## 🏅 Certificaciones
 
 - **[GitHub Foundations](https://www.credly.com/badges/dddc2ecf-c13f-46e3-be7a-953447527a96)** – *Noviembre 2024* &nbsp; ![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-black?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=181717&borderRadius=12)
-
-- **[AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/27E14EDF91DB5E69?sharingId=19F7185A6633D89E)** – *Julio 2024*  
-- **[AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/792318C24C3E6BA1?sharingId=19F7185A6633D89E)** – *Junio 2024*
+- **[AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/27E14EDF91DB5E69?sharingId=19F7185A6633D89E)** – *Julio 2024*  ! &nbsp; ![AI-900](https://img.shields.io/badge/AI--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0078D4&labelColor=0078D4&borderRadius=12)
+- **[AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GulydeSousa-5720/792318C24C3E6BA1?sharingId=19F7185A6633D89E)** – *Junio 2024* &nbsp;![AZ-900](https://img.shields.io/badge/AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0078D4&labelColor=0078D4&borderRadius=12)
 - **[Professional Scrum Product Owner™ Certification](https://www.credly.com/badges/a8f7ebc4-e14d-4e52-b2fe-67c18211ebfb)** – *Noviembre 2024* &nbsp; ![PSPO](https://img.shields.io/badge/PSPO-green?style=for-the-badge&logo=scrum&logoColor=white&color=4CAF50&labelColor=4CAF50&borderRadius=12)
 - **[Professional Scrum Master™ I Certification](https://www.credly.com/badges/0fae4bcd-1a84-4332-8681-888fc86e68ab)** – *Febrero 2024*  &nbsp;![PSM](https://img.shields.io/badge/PSM-blue?style=for-the-badge&logo=scrum&logoColor=white&color=007ACC&labelColor=007ACC&borderRadius=12)
+- **[70-461: Querying Microsoft SQL Server 2012/2014](https://www.credly.com/badges/dd2fa0b6-d73e-467c-a4d7-6bfefbc9b911)** – *Octubre 2015*  &nbsp; ![70-461](https://img.shields.io/badge/70--461-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC2927&labelColor=CC2927&borderRadius=12)
 
-- **[70-461: Querying Microsoft SQL Server 2012/2014](https://www.credly.com/badges/dd2fa0b6-d73e-467c-a4d7-6bfefbc9b911)** – *Octubre 2015*  
 
 ---
 
