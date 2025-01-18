@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📚 Cursos
+- **[The Complete GitHub Actions & Workflows Guide](https://neoris.udemy.com/certificate/UC-56df551a-abdf-42ea-aefc-571410e0b472/))** – *Udemy, Enero 2025, 15h*
 - **[Complete Angular 11 - Ultimate Guide - with Real World App](https://neoris.udemy.com/certificate/UC-5159a3ca-97ea-4ff2-8d44-462ac0f55f0a/)** – *Udemy, Enero 2025, 39h*
 - **[Clean Architecture Avanzado en ASP.NET Core](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4f503682-acb8-4dc6-b848-9008b5e0d9f8.pdf)** – *Udemy, Enero 2025, 25h*
 - **[Angular: De cero a experto 2024](https://www.udemy.com/certificate/UC-4dac7d80-3cf8-4c62-b5c7-a7032685002f)** – *Udemy, Agosto 2024, 46h*
